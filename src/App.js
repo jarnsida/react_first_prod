@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        А у меня эта синяя хрень нифига не крутится (((
       </header>
     </div>
   );
