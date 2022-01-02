@@ -2,6 +2,7 @@
   "name": "react_first_prod",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jarnsida.github.io/react_first_prod",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -12,8 +13,7 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.2"
   },
-    "homepage": "https://github.io/jarnsida/react_first_prod",
-    "scripts": {
+  "scripts": {
       "predeploy": "npm run build",
       "deploy":"gh-pages -d build",
       "start": "react-scripts start",

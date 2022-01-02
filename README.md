@@ -1,3 +1,8 @@
+# Эта грёбанная фигня нифига не считывает homepage из package.json #
+
+решение тут:
+``` https://github.com/facebook/create-react-app/issues/2575 ```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
