@@ -3,6 +3,10 @@
 решение тут:
 ``` https://github.com/facebook/create-react-app/issues/2575 ```
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/517npPWIb8Q/0.jpg)](https://www.youtube.com/watch?v=517npPWIb8Q)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
